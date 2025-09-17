@@ -1,4 +1,4 @@
-# 📊 Statastics Question bank 
+# 📊 Statistics Question bank 
 
 ## 👤 Author
 **Prajwal Sai N.**
